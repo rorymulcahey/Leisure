@@ -1,0 +1,50 @@
+Current number of iterations = 1000000.0
+Current Pi value = 3.14296
+Percent error: 0.04352%
+
+
+Current number of iterations = 2000000.0
+Current Pi value = 3.14225
+Percent error: 0.02092%
+
+
+Current number of iterations = 3000000.0
+Current Pi value = 3.14026
+Percent error: 0.04246%
+
+
+Current number of iterations = 4000000.0
+Current Pi value = 3.14225
+Percent error: 0.02096%
+
+
+Current number of iterations = 5000000.0
+Current Pi value = 3.14119
+Percent error: 0.01283%
+
+
+Current number of iterations = 6000000.0
+Current Pi value = 3.14143
+Percent error: 0.00509%
+
+
+Current number of iterations = 7000000.0
+Current Pi value = 3.14171
+Percent error: 0.0036%
+
+
+Current number of iterations = 8000000.0
+Current Pi value = 3.14289
+Percent error: 0.04142%
+
+
+Current number of iterations = 9000000.0
+Current Pi value = 3.14119
+Percent error: 0.01287%
+
+
+Current number of iterations = 10000000.0
+Current Pi value = 3.14166
+Percent error: 0.00216%
+
+
