@@ -24,7 +24,7 @@ class FindPi:
         value = 0
         for x in range(0, int(self.num_iterations)):
             self.create_random_values()
-            if self.distance_formula() < 1:
+            if self.distance_formula() <= 1:
                 value += 1
         return value*4/self.num_iterations
 
