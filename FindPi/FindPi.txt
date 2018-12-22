@@ -46,5 +46,3 @@ Percent error: 0.00949%
 Current number of iterations = 10000000.0
 Current Pi value = 3.14157
 Percent error: 0.00072%
-
-

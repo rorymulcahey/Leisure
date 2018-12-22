@@ -1,4 +1,7 @@
 # estimate pi
+# Use Monte Carlo simulation by comparing the ratio of points that reside in one quarter of a unit circles area
+# to the total number of points in the simulation of a 1 by 1 grid.
+
 import math
 import random
 import sys
